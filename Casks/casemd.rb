@@ -24,7 +24,7 @@ cask "casemd" do
   end
 
   name "casemd"
-  desc "Convert structured Markdown inspection checklists into CSV files and spreadsheets."
+  desc "Convert structured Markdown checklists to CSV and spreadsheets"
   homepage "https://github.com/9renpoto/casemd"
 
   livecheck do
