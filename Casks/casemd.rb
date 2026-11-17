@@ -33,5 +33,5 @@ cask "casemd" do
 
   binary "casemd"
 
-  # No zap stanza required
+  zap :not_required
 end
